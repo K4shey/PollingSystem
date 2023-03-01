@@ -1,4 +1,6 @@
-package net.sytes.kashey;public class Main {
+package net.sytes.kashey;
+
+public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
     }
